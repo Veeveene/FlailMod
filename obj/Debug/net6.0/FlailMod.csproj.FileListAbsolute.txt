@@ -3,3 +3,9 @@ C:\Users\samue\Documents\My Games\Terraria\tModLoader\ModSources\FlailMod\obj\De
 C:\Users\samue\Documents\My Games\Terraria\tModLoader\ModSources\FlailMod\obj\Debug\net6.0\FlailMod.AssemblyInfoInputs.cache
 C:\Users\samue\Documents\My Games\Terraria\tModLoader\ModSources\FlailMod\obj\Debug\net6.0\FlailMod.AssemblyInfo.cs
 C:\Users\samue\Documents\My Games\Terraria\tModLoader\ModSources\FlailMod\obj\Debug\net6.0\FlailMod.csproj.CoreCompileInputs.cache
+C:\Users\Tyfyter\Documents\My Games\Terraria\tModLoader\ModSources\FlailMod\obj\Debug\net6.0\FlailMod.csproj.AssemblyReference.cache
+C:\Users\Tyfyter\Documents\My Games\Terraria\tModLoader\ModSources\FlailMod\obj\Debug\net6.0\FlailMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tyfyter\Documents\My Games\Terraria\tModLoader\ModSources\FlailMod\obj\Debug\net6.0\FlailMod.AssemblyInfoInputs.cache
+C:\Users\Tyfyter\Documents\My Games\Terraria\tModLoader\ModSources\FlailMod\obj\Debug\net6.0\FlailMod.AssemblyInfo.cs
+C:\Users\Tyfyter\Documents\My Games\Terraria\tModLoader\ModSources\FlailMod\obj\Debug\net6.0\FlailMod.csproj.CoreCompileInputs.cache
+C:\Users\Tyfyter\Documents\My Games\Terraria\tModLoader\ModSources\FlailMod\obj\Debug\net6.0\FlailMod.sourcelink.json

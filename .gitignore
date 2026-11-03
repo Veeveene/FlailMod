@@ -1,0 +1,16 @@
+.vs/*
+obj/*
+bin/*
+Thumbs.db
+.vs/*
+*.ide-wal
+*.ide-shm
+*.ide
+*.ide-wal
+*.ide
+*.ide-shm
+*.ide-wal
+*.ide-shm
+*.csproj.user
+*.sln
+compile_temp/*

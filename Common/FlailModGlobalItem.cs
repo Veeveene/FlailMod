@@ -17,52 +17,16 @@ namespace FlailMod.Common
 
 		public override void SetDefaults(Item item)
 		{
-			if (item.type == ItemID.Anchor)
-			{
+			switch (item.type) {
+				case ItemID.Anchor:
 				item.channel = true;
 				item.shoot = ModContent.ProjectileType<AnchorProjectile>();
 				item.damage = 110;
-			}
-
-			if (item.type == ItemID.Flairon)
-			{
+				break;
+				case ItemID.Flairon:
 				item.channel = true;
 				item.shoot = ModContent.ProjectileType<FlaironProjectile>();
-			}
-
-			if (item.type == ItemID.BallOHurt)
-			{
-				item.shoot = ModContent.ProjectileType<BallOhurtProjectile>();
-			}
-
-			if (item.type == ItemID.TheMeatball)
-			{
-				item.shoot = ModContent.ProjectileType<TheMeatballProjectile>();
-			}
-
-			if (item.type == ItemID.BlueMoon)
-			{
-				item.shoot = ModContent.ProjectileType<BlueMoonProjectile>();
-			}
-
-			if (item.type == ItemID.Sunfury)
-			{
-				item.shoot = ModContent.ProjectileType<SunfuryProjectile>();
-			}
-
-			if (item.type == ItemID.DaoofPow)
-			{
-				item.shoot = ModContent.ProjectileType<DaoOfPowProjectile>();
-			}
-
-			if (item.type == ItemID.DripplerFlail)
-			{
-				item.shoot = ModContent.ProjectileType<DripplerCripplerProjectile>();
-			}
-
-			if (item.type == ItemID.FlowerPow)
-			{
-				item.shoot = ModContent.ProjectileType<FlowerPowProjectile>();
+				break;
 			}
 		}
 	}

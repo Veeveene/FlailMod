@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "1P3QzpnFTU3WA1x+qMbBRjLSpm47f5A8fdhI1kL+w5lZoBXQe3maEi7Oa2Vrr4YDLNybyer9gBQNb0LKFW5VSw==",
+  "dgSpecHash": "5HTK3Kh2Wb4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\samue\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\FlailMod\\FlailMod.csproj",
+  "projectFilePath": "C:\\Users\\Tyfyter\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\FlailMod\\FlailMod.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\samue\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+    "C:\\Users\\Tyfyter\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512",
+    "C:\\Users\\Tyfyter\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.26\\microsoft.windowsdesktop.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\Tyfyter\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.26\\microsoft.netcore.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\Tyfyter\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.26\\microsoft.aspnetcore.app.ref.8.0.26.nupkg.sha512"
   ],
   "logs": []
 }

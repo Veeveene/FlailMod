@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FlailMod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f891609f5cf90328b3fffcf4046607eb55cd6288")]
 [assembly: System.Reflection.AssemblyProductAttribute("FlailMod")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FlailMod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
