@@ -5,4 +5,9 @@ The Flairon, Anchor, Blue Moon and Drippler Crippler have also been reworked to 
 It appears that unlike my spear rework, mod compatibility for this one has to be done on a case by case basis.
 The mod currently features Thorium Mod compatibility. I will look into finding a solution for this, and if it fails eventually add other popular mods manually and/or mod calls in the future.
 
+Credits : 
+Development : Verveine, Moonlight Glint
+Chinese Localization : Chevalier
+Russian Localization : Alino4kaHvoshch
+
 [quote=Verveine]Watch the video for more info on the mod and its visuals![/quote]
